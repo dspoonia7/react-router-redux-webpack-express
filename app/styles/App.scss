@@ -1,0 +1,30 @@
+
+header {
+  .nav-link {
+    float: left;
+    padding: 5px 10px;
+    cursor: pointer;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.app-content {
+  margin: 10px;
+}
+
+//
+
+.app {
+  background-color: white;
+  height: 50px;
+  border: 1px solid blue;
+  padding: 15px;
+}
+
+.bap {
+  background-color: red;
+  height: 25px;
+}
